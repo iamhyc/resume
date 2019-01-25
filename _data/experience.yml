@@ -1,0 +1,18 @@
+# Experience template
+- company: Edge Computing
+  # link: Link to company (optional)
+  job_title: <mark>theory</mark>
+  dates: November 2018 - present
+  quote: >
+    Edge Computing
+  description: | # this will include new lines to allow paragraphs
+    Distributed Scheduling in Edge Computing System. `Details Needed`
+
+- company: VLC-WiFi Integrated System
+  # link: Link to company (optional)
+  job_title: <mark>system</mark>
+  dates: September 2017 - present
+  quote: >
+    VLC platform over NI instruments, and out-of-shelf Wi-Fi NIC
+  description: | # this will include new lines to allow paragraphs
+    VLC-WiFi Integrated System Implementation. `Details Needed`

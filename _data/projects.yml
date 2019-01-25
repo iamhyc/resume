@@ -1,0 +1,46 @@
+# Project template
+- name: Mind Flash
+#   link: github.com/iamhyc/mind-flash
+  github: iamhyc/mind-flash
+  quote: >
+    <mark>Efficiency</mark>
+    <mark>PyQt</mark>
+  description: | # this will include new lines to allow paragraphs
+    ## It's a flash over your mind!
+
+    <img src="images/preview.gif" height="300px"/>
+
+- name: Root-tree Topology Network Generator for NS3
+  link: github.com/iamhyc/hybrid-virtual-routing-ns3
+  github: iamhyc/hybrid-virtual-routing-ns3
+  quote: >
+    <mark>NS3/CPP</mark>
+    <mark>rapidJSON</mark>
+  description: | # this will include new lines to allow paragraphs
+    This project is aiming at providing quick root-tree based network topology generating in `ns3`.
+
+    It's writing in CPP to to keep native and efficiency with ns3. The network topology could be simply described in JSON format, which is naturally tree-based, and describe the test procedures in the same json file.
+
+    It also provides lot of utilities together for quick network physical link and routing definition. You could feel easy to add your own definition following the conduct of code.
+
+- name: Linux Kernel IP-based Encryption
+  link: github.com/iamhyc/Netfilter-L4-Encryption
+  github: iamhyc/Netfilter-L4-Encryption
+  quote: >
+    <mark>Linux Netfilter</mark>
+    <mark>Linux Netlink</mark>
+    <mark>AES-128</mark>
+  description: | # this will include new lines to allow paragraphs
+    This an kernel-level network encryption trial with AES-128 trying to encypt the whole **Payload of L3**, and decrypt it correpondingly at the receiver side; based on Linux Netfilter subsystem.
+
+- name: Linux Wi-Fi Driver Realtime Hook
+  link: github.com/iamhyc/wlsops-hack
+  github: iamhyc/wlsops-hack
+  quote: >
+    <mark>mmap</mark>
+    <mark>procfs</mark>
+    <mark>mac80211</mark>
+  description: | # this will include new lines to allow paragraphs
+    This project is aiming at providing the fastest access to your wireless NIC driver from userspace (The most recommended NIC for now is the `intel 8260/8265` series).
+
+    In fact, Linux mac80211 subsystem provides a set of API to monitor and modify the details related to 802.11 soft MAC design on Linux and PHY design on firmware. We design one kernel module to hack the function memory entry of the driver, and use `mmap` to implement a block area for communication with userspace. The userspace communication suite is also provided in this project.
