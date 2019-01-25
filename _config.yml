@@ -49,8 +49,8 @@ educaton_title: Education #(Use this to override about education section title)
 footer_show_references: false
 
 # Build settings
-theme: modern-resume-theme
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+# theme: modern-resume-theme
+remote_theme: sproogen/modern-resume-theme #(Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
