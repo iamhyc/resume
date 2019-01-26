@@ -6,6 +6,7 @@ favicon: /assets/favicon.ico
 title: 洪云聪-HONG Yuncong-Yuncong Hong # title of the homepage
 # description: #short description of your site
 # author: #author's name
+# google_analytics: # google analytics key
 #=========================== SEO Section ===========================
 
 # Personal info
@@ -14,7 +15,7 @@ job_title: Ph.D Candidate
 company: The University of Hong Kong
 address: RSC M-13, G/F Haking Wong Building, HKU
 email: ychong@cs.hku.hk
-website: https://github.com/iamhyc
+website: github.com/iamhyc
 
 # Social links
 twitter_username: sudo_free
@@ -43,10 +44,10 @@ publication_content: | # Markdownify area
 projects_title: Projects #(Use this to override about projects section title)
 
 # Education Section
-educaton_title: Education #(Use this to override about education section title)
+# educaton_title: Education #(Use this to override about education section title)
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme
