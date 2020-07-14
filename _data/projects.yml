@@ -10,9 +10,10 @@
     <mark>Efficiency</mark>
     <mark>PyQt</mark>
   description: | # this will include new lines to allow paragraphs
-    ## It's a flash over your mind! (BETA release expected on Aug. 2020)
+    ## It's a flash over your mind!
+    > (BETA release expected on **Aug. 2020**)
 
-    <img src="images/preview.gif" height="300px"/>
+    <img src="images/preview.png" height="300px"/>
 
 # - name: Root-tree Topology Network Generator for NS3
 #   link: github.com/iamhyc/hybrid-virtual-routing-ns3
