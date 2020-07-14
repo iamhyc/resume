@@ -1,27 +1,31 @@
 # Project template
+- name: Virtual Domain Manager
+  description: |
+    (On the way ...)
+
 - name: Mind Flash
-#   link: github.com/iamhyc/mind-flash
+  # link: github.com/iamhyc/mind-flash
   github: iamhyc/mind-flash
   quote: >
     <mark>Efficiency</mark>
     <mark>PyQt</mark>
   description: | # this will include new lines to allow paragraphs
-    ## It's a flash over your mind!
+    ## It's a flash over your mind! (BETA release expected on Aug. 2020)
 
     <img src="images/preview.gif" height="300px"/>
 
-- name: Root-tree Topology Network Generator for NS3
-  link: github.com/iamhyc/hybrid-virtual-routing-ns3
-  github: iamhyc/hybrid-virtual-routing-ns3
-  quote: >
-    <mark>NS3/CPP</mark>
-    <mark>rapidJSON</mark>
-  description: | # this will include new lines to allow paragraphs
-    This project is aiming at providing quick root-tree based network topology generating in `ns3`.
+# - name: Root-tree Topology Network Generator for NS3
+#   link: github.com/iamhyc/hybrid-virtual-routing-ns3
+#   github: iamhyc/hybrid-virtual-routing-ns3
+#   quote: >
+#     <mark>NS3/CPP</mark>
+#     <mark>rapidJSON</mark>
+#   description: | # this will include new lines to allow paragraphs
+#     This project is aiming at providing quick root-tree based network topology generating in `ns3`.
 
-    It's writing in CPP to to keep native and efficiency with ns3. The network topology could be simply described in JSON format, which is naturally tree-based, and describe the test procedures in the same json file.
+#     It's writing in CPP to to keep native and efficiency with ns3. The network topology could be simply described in JSON format, which is naturally tree-based, and describe the test procedures in the same json file.
 
-    It also provides lot of utilities together for quick network physical link and routing definition. You could feel easy to add your own definition following the conduct of code.
+#     It also provides lot of utilities together for quick network physical link and routing definition. You could feel easy to add your own definition following the conduct of code.
 
 - name: Linux Kernel IP-based Encryption
   link: github.com/iamhyc/Netfilter-L4-Encryption
