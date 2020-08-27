@@ -8,11 +8,11 @@
   github: iamhyc/mind-flash
   quote: >
     <mark>Efficiency</mark>
-    <mark>PyQt</mark>
+    <mark>PyQt5</mark>
   description: | # this will include new lines to allow paragraphs
-    ## It's a flash over your mind!
+    ## Mind Flash, capture every small thoughts fleeting over your mind.
 
-    (BETA release expected on **Aug. 2020**)
+    (**Officially Released**: https://github.com/iamhyc/mind-flash/releases/latest)
 
     <img src="images/preview.png" height="300px"/>
 
