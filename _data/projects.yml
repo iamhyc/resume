@@ -1,7 +1,12 @@
 # Project template
 - name: Virtual Domain Manager
+  # link: github.com/VD-Maintainer-Group/virtual-domain-manager
+  github: VD-Maintainer-Group/virtual-domain-manager
+  quote: >
+    <mark>Efficiency</mark>
+    <mark>Next Generation</mark>
   description: |
-    (On the way ...)
+    (On the way ... Help needed.)
 
 - name: Mind Flash
   # link: github.com/iamhyc/mind-flash
