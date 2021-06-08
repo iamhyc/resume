@@ -38,7 +38,7 @@ experience_title: Research Experience #(Use this to override about experience se
 # Publication Section
 publication_title: Selected Publications #(Use this to override about more section title)
 publication_content: | # Markdownify area
-  1. Y. Hong, B. Lv, R. Wang, H. Tan, Z. Han, H. Zhou, F. C. M. Lau, ``Online Distributed Job Dispatching with Outdated and Partially-Observable Information'', in Proc. ***IEEE MSN***, 2020 **Best Track Paper Award**.
+  [1] Y. Hong, B. Lv, R. Wang, H. Tan, Z. Han, H. Zhou, F. C. M. Lau, ``[Online Distributed Job Dispatching with Outdated and Partially-Observable Information](https://arxiv.org/abs/2012.13756)'', in Proc. ***IEEE MSN***, 2020 **Best Track Paper Award**.
 
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
