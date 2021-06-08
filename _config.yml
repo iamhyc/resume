@@ -27,11 +27,10 @@ linkedin_username: yuncong-hong-46a3aa172
 about_title: About Me
 about_profile_image: images/BZ1808231652543091.jpg
 about_content: | # this will include new lines to allow paragraphs
-  HONG Yuncong (洪云聪) is currently a PhD student ot Computer Science at HKU, and my supervisor is [Prof. Francis C.M. Lau](http://www.cs.hku.hk/~fcmlau). I received my B.Eng from Southern University of Science and Technology (SUSTech) in Communication Engineering. And I am now in the joint PhD program between HKU and SUSTech.
+  Yuncong Hong (洪云聪) is currently a PhD candidate of Computer Science in a joint PhD program between HKU and SUSTech. His supervisor is [Prof. Francis C.M. Lau](http://www.cs.hku.hk/~fcmlau) and [Prof. Rui Wang](https://eee.sustech.edu.cn/p/wangrui/). He received B.Eng from SUSTech in Communication Engineering.
   
-  My research interest is now in scheduling problem in distributed system. And I am quite mania about coding softwares in the real system.
-  My programming skills are listed but not limited in the following areas:
-  `C/CPP` `Java` `Python` `Nodejs` `LabVIEW` `MATLAB` `Web`.
+  His research interests include scheduling in distributed system and pipeline parallelism. He is also interested in software programming and currently working on a fancy program [VDM](https://github.com/VDM-Maintainer-Group/virtual-domain-manager).
+  His programming skills are listed but not limited in the following areas: `Python`, `Rust`, `C/CPP`, `Nodejs`, `TypeScript`, `MATLAB` and etc.
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
@@ -39,6 +38,7 @@ experience_title: Research Experience #(Use this to override about experience se
 # Publication Section
 publication_title: Selected Publications #(Use this to override about more section title)
 publication_content: | # Markdownify area
+  1. Y. Hong, B. Lv, R. Wang, H. Tan, Z. Han, H. Zhou, F. C. M. Lau, ``Online Distributed Job Dispatching with Outdated and Partially-Observable Information'', in Proc. ***IEEE MSN***, 2020 **Best Track Paper Award**.
 
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
