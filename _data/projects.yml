@@ -4,9 +4,13 @@
   github: VD-Maintainer-Group/virtual-domain-manager
   quote: >
     <mark>Efficiency</mark>
-    <mark>Next Generation</mark>
+    <mark>SerDe IPC</mark>
   description: |
-    (On the way ... Help needed.)
+    ## **VDM: a temporal workspace manager on your Linux desktop.**
+    
+    [Brief Introduction in Chinese](https://bbs.deepin.org/zh/post/219493)
+    
+    (*IN PROGRESS*) The first workable version will be released before Dec. 2021.
 
 - name: Mind Flash
   # link: github.com/iamhyc/mind-flash
@@ -15,7 +19,7 @@
     <mark>Efficiency</mark>
     <mark>PyQt5</mark>
   description: | # this will include new lines to allow paragraphs
-    ## Mind Flash, capture every small thoughts fleeting over your mind.
+    ## **Mind Flash, capture every small thoughts fleeting over your mind.**
 
     (**Officially Released**: https://github.com/iamhyc/mind-flash/releases/latest)
 
