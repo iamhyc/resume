@@ -40,7 +40,7 @@ publication_title: Selected Publications #(Use this to override about more secti
 publication_content: | # Markdownify area
   [1] **Y. Hong**, B. Lv, R. Wang, H. Tan, Z. Han, H. Zhou, F. C. M. Lau, ``[Online Distributed Job Dispatching with Outdated and Partially-Observable Information](https://arxiv.org/abs/2012.13756),'' in Proc. IEEE MSN, 2020 **Best Track Paper Award**.
   
-  [2] **Y. Hong**, B. Lv, R. Wang, H. Tan, Z. Han, F. C. M. Lau, ``Distributed Job Dispatching in Edge Computing Networks with Random Transmission Latency: A Low-Complexity POMDP Approach,'' (accepted to appear in IOT-J 2021).
+  [2] **Y. Hong**, B. Lv, R. Wang, H. Tan, Z. Han, F. C. M. Lau, ``[Distributed Job Dispatching in Edge Computing Networks with Random Transmission Latency: A Low-Complexity POMDP Approach](https://ieeexplore.ieee.org/document/9509750),'' in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2021.3103798.
   
   [3] L. Zhou, **Y. Hong**, S. Wang, R. Han, D. Li, R. Wang, and Q. Hao, "[Learning centric wireless resource allocation for edge computing: Algorithm and experiment](https://ieeexplore.ieee.org/document/9307274)," IEEE Transactions on Vehicular Technology, Jan. 2021.
 
