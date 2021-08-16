@@ -4,15 +4,43 @@
   job_title: <mark>theory</mark>
   dates: November 2018 - present
   quote: >
-    Edge Computing
+    Edge Computing in Distributed and Cooperation System
   description: | # this will include new lines to allow paragraphs
-    Distributed Scheduling in Edge Computing System. `Details Needed`
+    ** *2* published, *0* ongoing, *0* patent. **
+
+    In the published papers, we use POMDP to formulate a cooperative distributed job dispatching problem in an edge computing system.
+    We propose an efficient and performance-guaranteed distributed solution framework, which is scalable to the size of the edge computing system.
+
+
+- company: Vehicular Network and Federated Learning
+  job_title: <mark>theory</mark> <mark>system</mark>
+  dates: November 2019 - May 2020
+  quote: >
+    Online Semi-supervised Federated Learning on High-fidelity Simulators
+  description: | # this will include new lines to allow paragraphs
+    ** *2* published, *1* ongoing, *0* patent. **
+
+    In the published papers, we formulate a *semi-supervised federated learning problem* where multiple vehicles are equipped with a [SECOND network](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf) for 3D object detection.
+    Firstly, the vehicles would locally infer the objects with a pre-trained model.
+    Then the information of all the inferred objects is uploaded for global fusion.
+    Finally, the vehicles get the distributed global objects list, and try to improve the local network with the previous samples. 
+    We implemented the experiment based on a high-fidelity autonomous driving simulator [CARLA](https://carla.org/), and generated some datasets conformed to the [KITTI dataset format](http://www.cvlibs.net/datasets/kitti/).
+    The source code is available on [Github](https://github.com/lasso-sustech/CARLA_INVS).
+
+    In the ongoing paper, we formulate a resource allocation problem in the above scenario, to achieve both energy and latency efficiency in online federated training.
+    We note that the randomness of vehicles' locations would affect both allocation of communication and computation power. Moreover, the sharing of wireless resources further increases the complexity of solution.
+
 
 - company: VLC-WiFi Integrated System
   # link: Link to company (optional)
   job_title: <mark>system</mark>
-  dates: September 2017 - present
+  dates: September 2017 - December 2018
   quote: >
-    VLC platform over NI instruments, and out-of-shelf Wi-Fi NIC
+    VLC Platform over NI Instruments and Out-of-shelf Wi-Fi NIC
   description: | # this will include new lines to allow paragraphs
-    VLC-WiFi Integrated System Implementation. `Details Needed`
+    ** *0* published, *0* ongoing, *1* patent. **
+
+    In this project, we implemented a hybrid VLC-WiFi communication system, where the VLC link bears the high-throughput downlink, and Wi-Fi link servers as uplink.
+    We implemented the system on NI instruments with out-of-shelf Wi-Fi NIC, and the retransmission mechanism is implemented on IP layer.
+    The source code of the whole workable system implementation is provided [here](https://github.com/iamhyc/CSDS-VLC-TCP).
+    The granted patent is [数据传输方法、装置、设备及存储介质(CN110429979B)](http://epub.cnipa.gov.cn/patentdetail.action).
