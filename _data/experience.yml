@@ -43,4 +43,4 @@
     In this project, we implemented a hybrid VLC-WiFi communication system, where the VLC link bears the high-throughput downlink, and Wi-Fi link servers as uplink.
     We implemented the system on NI instruments with out-of-shelf Wi-Fi NIC, and the retransmission mechanism is implemented on IP layer.
     The source code of the whole workable system implementation is provided [here](https://github.com/iamhyc/CSDS-VLC-TCP).
-    The granted patent is [数据传输方法、装置、设备及存储介质 (CN110429979B)](http://epub.cnipa.gov.cn/patentdetail.action).
+    The granted patent is [数据传输方法、装置、设备及存储介质 (CN110429979B)](https://zhuanli.tianyancha.com/9db63365abd6d65e0ba6f52883e4693d).
