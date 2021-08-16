@@ -19,7 +19,6 @@ website: github.com/iamhyc
 
 # Social links
 twitter_username: sudo_free
-# facebook_username: sudo_free
 github_username:  iamhyc
 linkedin_username: yuncong-hong-46a3aa172
 
@@ -27,9 +26,12 @@ linkedin_username: yuncong-hong-46a3aa172
 about_title: About Me
 about_profile_image: images/BZ1808231652543091.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Yuncong Hong (洪云聪) is currently a PhD candidate of Computer Science in a joint PhD program between HKU and SUSTech. His supervisor is [Prof. Francis C.M. Lau](http://www.cs.hku.hk/~fcmlau) and [Prof. Rui Wang](https://eee.sustech.edu.cn/p/wangrui/). He received B.Eng from SUSTech in Communication Engineering.
+  Yuncong Hong (洪云聪) is currently a PhD candidate of Computer Science in a joint PhD programme offered by HKU and SUSTech.
+  His supervisors are [Prof. Francis C.M. Lau](http://www.cs.hku.hk/~fcmlau) and [Prof. Rui Wang](https://eee.sustech.edu.cn/p/wangrui/).
+  He received B.Eng from SUSTech in Communication Engineering.
   
-  His research interests include scheduling in distributed system and pipeline parallelism. He is also interested in software programming and currently working on a fancy program [VDM](https://github.com/VDM-Maintainer-Group/virtual-domain-manager).
+  His research interests include scheduling problems in edge computing system, where the distributed or pipeline parallelism designs are considered.
+  He is also interested in software programming and currently working on a fantastic program [VDM](https://github.com/VDM-Maintainer-Group/virtual-domain-manager).
   His programming skills are listed but not limited in the following areas: `Python`, `Rust`, `C/CPP`, `Nodejs`, `TypeScript`, `MATLAB` and etc.
 
 # Experience Section
