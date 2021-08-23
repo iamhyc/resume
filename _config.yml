@@ -32,7 +32,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   His research interests include scheduling problems in edge computing system, where the distributed or pipeline parallelism designs are considered.
   He is also interested in software programming and currently working on a fantastic program [VDM](https://github.com/VDM-Maintainer-Group/virtual-domain-manager).
-  His programming skills are listed but not limited in the following areas: `Python`, `Rust`, `C/CPP`, `Nodejs`, `TypeScript`, `MATLAB` and etc.
+  His programming skills are listed but not limited in the following areas: `Python`, `Rust`, `C/CPP`, `Nodejs`, `TypeScript`, and etc.
+  
+  [My Curriculum Vitae](assets/ychong_resume.pdf)
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
