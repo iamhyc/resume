@@ -9,17 +9,17 @@
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
       <ul class="icons no-print">
+        {%- if site.google_scholar_name -%}
+          <li>
+            <a target="_blank" href="https://scholar.google.com/citations?user={{ site.google_scholar_name| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="ai ai-google-scholar-square" title="Google Scholar"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.twitter_username -%}
           <li>
             <a target="_blank" href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="fa fa-twitter" title="Twitter link"></i>
-            </a>
-          </li>
-        {%- endif -%}
-        {%- if site.facebook_username -%}
-          <li>
-            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-facebook" title="Facebook link"></i>
             </a>
           </li>
         {%- endif -%}
