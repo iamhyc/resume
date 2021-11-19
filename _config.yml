@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   He is also interested in software programming and currently working on a fantastic program [VDM](https://github.com/VDM-Maintainer-Group/virtual-domain-manager).
   His programming skills are listed but not limited in the following areas: `Python`, `Rust`, `C/CPP`, `Nodejs`, `TypeScript`, and etc.
   
-  [[My Curriculum Vitae]](assets/ychong_resume.pdf)  [[我的简历]](assets/ychong_resume_cn.pdf)
+  [[My Curriculum Vitae]](assets/ychong_resume.pdf) &emsp; [[我的简历]](assets/ychong_resume_cn.pdf)
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
