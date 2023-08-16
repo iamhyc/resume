@@ -6,37 +6,28 @@
     <mark>Efficiency</mark>
     <mark>SerDe IPC</mark>
   description: |
-    ## **VDM: a temporal workspace manager on your Linux desktop.**
+    ## **VDM: live workspace manager for Linux desktop.**
     
     [Brief Introduction in Chinese](https://bbs.deepin.org/zh/post/219493)
     
-    (*IN PROGRESS*) The first workable version will be released before Dec. 2021.
+    VDM is a workspace manager for GUI applications.
 
-- name: Mind Flash
-  # link: github.com/iamhyc/mind-flash
-  github: iamhyc/mind-flash
+    When workspace is closing, VDM will save the status of all compatible applications and restore them when re-open.
+
+- name: Cluster Tap
+  #link: github.com/lasso-sustech/cluster-tap
   quote: >
-    <mark>Efficiency</mark>
-    <mark>PyQt5</mark>
+    <mark>Automation</mark>
+    <mark>Utility</mark>
   description: | # this will include new lines to allow paragraphs
-    ## **Mind Flash: capture every small thoughts fleeting over your mind.**
+    Single Python file, to distribute tasks and collect *execution results* or *exception traceback* in cluster.
 
-    (Officially Released on [Github](https://github.com/iamhyc/mind-flash/releases/latest))
+    The timing of automation pipeline is based on local system time, which guarantees minimum extra communication cost.
 
-    <img src="images/preview.png" height="300px"/>
+    Together with the [stream-replay](https://github.com/lasso-sustech/stream-replay) utility, the demo below shows how
+    we automate a Wi-Fi network traffic optimization procedure.
 
-# - name: Root-tree Topology Network Generator for NS3
-#   link: github.com/iamhyc/hybrid-virtual-routing-ns3
-#   github: iamhyc/hybrid-virtual-routing-ns3
-#   quote: >
-#     <mark>NS3/CPP</mark>
-#     <mark>rapidJSON</mark>
-#   description: | # this will include new lines to allow paragraphs
-#     This project is aiming at providing quick root-tree based network topology generating in `ns3`.
-
-#     It's writing in CPP to to keep native and efficiency with ns3. The network topology could be simply described in JSON format, which is naturally tree-based, and describe the test procedures in the same json file.
-
-#     It also provides lot of utilities together for quick network physical link and routing definition. You could feel easy to add your own definition following the conduct of code.
+    <img src="https://raw.githubusercontent.com/lasso-sustech/stream-replay/master/previews/screenshot.png" height="250px" />
 
 - name: Linux Kernel IP-based Encryption
   link: github.com/iamhyc/Netfilter-L4-Encryption
