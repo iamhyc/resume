@@ -6,7 +6,7 @@
   quote: >
     Edge Computing in Distributed and Cooperation System
   description: | # this will include new lines to allow paragraphs
-    ***3* published, *1* ongoing, *0* patent.**
+    ***3* published, *0* ongoing, *0* patent.**
 
     In the published papers, we use POMDP to formulate a cooperative distributed job dispatching problem in an edge computing system.
     We propose an efficient and performance-guaranteed distributed solution framework, which is scalable to the size of the edge computing system.
@@ -18,7 +18,7 @@
   quote: >
     Online Semi-supervised Federated Learning on High-fidelity Simulators
   description: | # this will include new lines to allow paragraphs
-    ***3* published, *1* ongoing, *0* patent.**
+    ***3* published, *1* ongoing, *1* patent.**
 
     In the published papers, we formulate a *semi-supervised federated learning problem* where multiple vehicles are equipped with a [SECOND network](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf) for 3D object detection.
     Firstly, the vehicles would locally infer the objects with a pre-trained model.
@@ -26,6 +26,7 @@
     Finally, the vehicles get the distributed global objects list, and try to improve the local network with the previous samples. 
     We implemented the experiment based on a high-fidelity autonomous driving simulator [CARLA](https://carla.org/), and generated some datasets conformed to the [KITTI dataset format](http://www.cvlibs.net/datasets/kitti/).
     The source code is available on [Github](https://github.com/lasso-sustech/CARLA_INVS).
+    One related patent ([仿真数据生成方法、设备及介质 (CN115577545A)](https://zhuanli.tianyancha.com/b5a4f058e875fbb406f6375188b26919)) is in the discloure stage.
 
     In the ongoing paper, we formulate a resource allocation problem in the above scenario, to achieve both energy and latency efficiency in online federated training.
     We note that the randomness of vehicles' locations would affect both allocation of communication and computation power. Moreover, the sharing of wireless resources further increases the complexity of solution.
