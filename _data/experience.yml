@@ -26,7 +26,7 @@
     Finally, the vehicles get the distributed global objects list, and try to improve the local network with the previous samples. 
     We implemented the experiment based on a high-fidelity autonomous driving simulator [CARLA](https://carla.org/), and generated some datasets conformed to the [KITTI dataset format](http://www.cvlibs.net/datasets/kitti/).
     The source code is available on [Github](https://github.com/lasso-sustech/CARLA_INVS).
-    One related patent ([仿真数据生成方法、设备及介质 (CN115577545A)](https://zhuanli.tianyancha.com/b5a4f058e875fbb406f6375188b26919)) is in the discloure stage.
+    One patent is in the discloure stage: [仿真数据生成方法、设备及介质 (CN115577545A)](https://zhuanli.tianyancha.com/b5a4f058e875fbb406f6375188b26919).
 
     In the ongoing paper, we formulate a resource allocation problem in the above scenario, to achieve both energy and latency efficiency in online federated training.
     We note that the randomness of vehicles' locations would affect both allocation of communication and computation power. Moreover, the sharing of wireless resources further increases the complexity of solution.
