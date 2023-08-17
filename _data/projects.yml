@@ -14,13 +14,14 @@
 
     When workspace is closing, VDM will save the status of all compatible applications and restore them when re-open.
 
-- name: Cluster Tap
-  #link: github.com/lasso-sustech/cluster-tap
+- name: cluster-tap: Yet Another General Automation Utility  
+  link: github.com/lasso-sustech/cluster-tap
+  github: lasso-sustech/cluster-tap
   quote: >
     <mark>Automation</mark>
     <mark>Utility</mark>
   description: | # this will include new lines to allow paragraphs
-    Single Python file, to distribute tasks and collect *execution results* or *exception traceback* in cluster.
+    Single Python file, to distribute tasks and collect *execution results* or *exception traceback* on remote clients in cluster.
 
     The timing of automation pipeline is based on local system time, which guarantees minimum extra communication cost.
 
