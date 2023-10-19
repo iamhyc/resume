@@ -1,7 +1,7 @@
 # Project template
 - name: Virtual Domain Manager
   # link: github.com/VD-Maintainer-Group/virtual-domain-manager
-  github: VD-Maintainer-Group/virtual-domain-manager
+  github: VDM-Maintainer-Group/virtual-domain-manager
   quote: >
     <mark>Efficiency</mark>
     <mark>SerDe IPC</mark>
@@ -14,18 +14,17 @@
 
     When workspace is closing, VDM will save the status of all compatible applications and restore them when re-open.
 
-- name: cluster-tap: Yet Another General Automation Utility  
-  link: github.com/lasso-sustech/cluster-tap
+- name: cluster-tap: Simple Automation Utility for Small Cluster
+  # link: github.com/lasso-sustech/cluster-tap
   github: lasso-sustech/cluster-tap
   quote: >
     <mark>Automation</mark>
     <mark>Utility</mark>
   description: | # this will include new lines to allow paragraphs
     Single Python file, to distribute tasks and collect *execution results* or *exception traceback* on remote clients in cluster.
-
     The timing of automation pipeline is based on local system time, which guarantees minimum extra communication cost.
-
-    Together with the [stream-replay](https://github.com/lasso-sustech/stream-replay) utility, the demo below shows how
+    
+    Together with the [stream-replay](https://github.com/lasso-sustech/stream-replay) utility and [wlsops-hack](https://github.com/lasso-sustech/wlsops-hack) kernel module, the demo below shows how
     we automate a Wi-Fi network traffic optimization procedure.
 
     <img src="https://raw.githubusercontent.com/lasso-sustech/stream-replay/master/previews/screenshot.png" height="250px" />
