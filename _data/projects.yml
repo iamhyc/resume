@@ -14,7 +14,7 @@
 
     When workspace is closing, VDM will save the status of all compatible applications and restore them when re-open.
 
-- name: cluster-tap: Simple Automation Utility for Small Cluster
+- name: cluster-tap - Simple Automation Utility for Small Cluster
   # link: github.com/lasso-sustech/cluster-tap
   github: lasso-sustech/cluster-tap
   quote: >
