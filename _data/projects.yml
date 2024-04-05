@@ -1,18 +1,17 @@
 # Project template
-- name: Virtual Domain Manager
-  # link: github.com/VD-Maintainer-Group/virtual-domain-manager
-  github: VDM-Maintainer-Group/virtual-domain-manager
+- name: Overleaf Workshop
+  link: github.com/iamhyc/overleaf-workshop
+  github: iamhyc/overleaf-workshop
   quote: >
-    <mark>Efficiency</mark>
-    <mark>SerDe IPC</mark>
+    <mark>LaTeX</mark>
+    <mark>Overleaf</mark>
+    <mark>VS Code Extension</mark>
   description: |
-    ## **VDM: live workspace manager for Linux desktop.**
+    Open Overleaf (ShareLatex) projects in VSCode, with full collaboration support.
     
-    [Brief Introduction in Chinese](https://bbs.deepin.org/zh/post/219493)
-    
-    VDM is a workspace manager for GUI applications.
+    The full user guide is available at [GitHub Wiki](https://github.com/iamhyc/Overleaf-Workshop/wiki).
 
-    When workspace is closing, VDM will save the status of all compatible applications and restore them when re-open.
+    <img src="https://github.com/iamhyc/Overleaf-Workshop/blob/master/docs/assets/demo01-login.gif?raw=true" height="250px" />
 
 - name: cluster-tap - Simple Automation Utility for Small Cluster
   # link: github.com/lasso-sustech/cluster-tap
@@ -29,19 +28,6 @@
 
     <img src="https://raw.githubusercontent.com/lasso-sustech/stream-replay/master/previews/screenshot.png" height="250px" />
 
-- name: Linux Kernel IP-based Encryption
-  link: github.com/iamhyc/Netfilter-L4-Encryption
-  github: iamhyc/Netfilter-L4-Encryption
-  quote: >
-    <mark>Linux Netfilter</mark>
-    <mark>Linux Netlink</mark>
-    <mark>AES-128</mark>
-  description: | # this will include new lines to allow paragraphs
-    This project implements an in-stack network data encryption trial based on **Linux Netfilter subsystem**.
-    It uses asynchronous encryption method `AES-128` provided by kernel function, to encrypt the *payload of L3* (i.e., content of an IP packet) and decrypt it correspondingly at the receiver's side.
-
-    In the possible future work, this project would be extended with an identification mechanism which allows the tx/rx to negotiate the enable of en(de)cryption, and a userspace tool based on **Linux Netlink subsystem** for key management.
-
 - name: Linux Wi-Fi Driver Realtime Hook
   link: github.com/iamhyc/wlsops-hack
   github: iamhyc/wlsops-hack
@@ -56,3 +42,16 @@
     However, the existing tools rely on either `ioctl` or `genl` which could not provide real-time and robust access to kernel driver.
     In this project, we design one kernel module to hijack the function entry of the driver, and use `mmap` to establish a shared-memory communication between kernel and userspace.
     The experiment results show that we could alter a set of parameters (related to channel access priority) **within 10 millisecond for 1000 accesses**.
+
+- name: Linux Kernel IP-based Encryption
+  link: github.com/iamhyc/Netfilter-L4-Encryption
+  github: iamhyc/Netfilter-L4-Encryption
+  quote: >
+    <mark>Linux Netfilter</mark>
+    <mark>Linux Netlink</mark>
+    <mark>AES-128</mark>
+  description: | # this will include new lines to allow paragraphs
+    This project implements an in-stack network data encryption trial based on **Linux Netfilter subsystem**.
+    It uses asynchronous encryption method `AES-128` provided by kernel function, to encrypt the *payload of L3* (i.e., content of an IP packet) and decrypt it correspondingly at the receiver's side.
+
+    In the possible future work, this project would be extended with an identification mechanism which allows the tx/rx to negotiate the enable of en(de)cryption, and a userspace tool based on **Linux Netlink subsystem** for key management.
