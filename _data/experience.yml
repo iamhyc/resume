@@ -2,11 +2,11 @@
 - company: Edge Computing
   # link: Link to company (optional)
   job_title: <mark>theory</mark>
-  dates: November 2018 - present
+  dates: November 2018 - June 2024
   quote: >
     Edge Computing in Distributed and Cooperation System
   description: | # this will include new lines to allow paragraphs
-    ***3* published, *0* ongoing, *0* patent.**
+    ***3* published, *0* patent.**
 
     In the published papers, we use POMDP to formulate a cooperative distributed job dispatching problem in an edge computing system.
     We propose an efficient and performance-guaranteed distributed solution framework, which is scalable to the size of the edge computing system.
@@ -14,7 +14,7 @@
 
 - company: Vehicular Network and Federated Learning
   job_title: <mark>theory</mark> <mark>system</mark>
-  dates: November 2019 - present
+  dates: November 2019 - June 2024
   quote: >
     Online Semi-supervised Federated Learning on High-fidelity Simulators
   description: | # this will include new lines to allow paragraphs
