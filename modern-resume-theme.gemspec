@@ -16,9 +16,9 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '~> 3.0'
 
-  spec.add_runtime_dependency 'github-pages', '~> 228'
+  spec.add_runtime_dependency 'github-pages', '~> 232'
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.1"
 
-  spec.add_development_dependency "bundler", "~> 2.3.0"
+  spec.add_development_dependency "bundler", "~> 2.5.0"
   spec.add_development_dependency "html-proofer", "~> 3.9"
 end

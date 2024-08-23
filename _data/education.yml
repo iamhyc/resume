@@ -1,7 +1,15 @@
 # Education Template
 # - name: SUSTech, China
-#   dates: 2014 - 2018 (eg. 2016 - 2019)
+#   dates: 2014 - 2018
 #   qualification: B.Eng in EEE
+#   quote: >
+#     Short institution or course description (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
+
+# - name: HKU, HK, China
+#   dates: 2018 - 2024
+#   qualification: Ph.D. in CS
 #   quote: >
 #     Short institution or course description (optional)
 #   description: | # this will include new lines to allow paragraphs

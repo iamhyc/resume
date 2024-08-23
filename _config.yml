@@ -14,7 +14,7 @@ name: HONG Yuncong
 job_title: Ph.D
 company: The University of Hong Kong
 address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China
-email: ychong@cs.hku.hk
+email: ychong@petalmail.com
 website: github.com/iamhyc
 
 # Social links
@@ -27,16 +27,16 @@ linkedin_username: yuncong-hong-46a3aa172
 about_title: About Me
 about_profile_image: images/BZ1808231652543091.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ❗❗❗**AVAILABLE FOR HIRE**❗❗❗
+  ❗❗❗**LOOKING FOR JOB OPPORTUNITIES**❗❗❗
 
-  Yuncong Hong (洪云聪) receives his PhD of Computer Science from The University of Hong Kong in 2024, supervised by [Prof. Francis C.M. Lau](http://www.cs.hku.hk/~fcmlau) and [Prof. Rui Wang](https://eee.sustech.edu.cn/p/wangrui).
-  He received B.Eng from SUSTech in Communication Engineering.
+  Yuncong Hong (洪云聪) received his PhD in Computer Science from The University of Hong Kong in July 2024, supervised by [Prof. Francis C.M. Lau](http://www.cs.hku.hk/~fcmlau) and [Prof. Rui Wang](https://eee.sustech.edu.cn/p/wangrui).
+  He received his B.Eng from SUSTech in Communication Engineering in 2018.
   
-  His research interests include scheduling problems in edge computing system and vehicular networks.
+  His research interests include optimization problems in edge computing systems and vehicular networks.
 
   His programming skills are listed but not limited in the following areas: `Python`, `Rust`, `C/CPP`, `Nodejs`, `TypeScript`, and etc.
   
-  [[My Curriculum Vitae]](assets/ychong_resume.pdf) &emsp; [[我的简历]](assets/ychong_resume_cn.pdf)
+  [[My Curriculum Vitae]](assets/files/ychong_resume.pdf) &emsp; [[我的简历]](assets/files/ychong_resume_cn.pdf)
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
@@ -48,9 +48,11 @@ publication_content: | # Markdownify area
   
   [2] **Y. Hong**, B. Lv, R. Wang, H. Tan, Z. Han, F. C. M. Lau, ``[Distributed Job Dispatching in Edge Computing Networks with Random Transmission Latency: A Low-Complexity POMDP Approach](https://ieeexplore.ieee.org/document/9509750),'' in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2021.3103798.
 
-  [3] **Y. Hong**, B. Lv, S. Wang, H. Tan, F. C. M. Lau, ``FedCars: A Data-Driven Uplink Scheduling Framework for Efficient In-Vehicle Federated Edge Learning,'' Submitted to IEEE Transactions on Vehicular Technology, 2024.
+  [3] **Y. Hong**, B. Lv, S. Wang, H. Tan, F. C. M. Lau, ``FedCars: A Data-Driven Uplink Scheduling Framework for Efficient In-Vehicle Federated Edge Learning,'' To be appear in IEEE Transactions on Vehicular Technology, 2024.
   
-  [4] L. Zhou, **Y. Hong**, S. Wang, R. Han, D. Li, R. Wang, and Q. Hao, "[Learning centric wireless resource allocation for edge computing: Algorithm and experiment](https://ieeexplore.ieee.org/document/9307274)," IEEE Transactions on Vehicular Technology, Jan. 2021.
+  [4] Z. Zhang, S. Wang, **Y. Hong**, L. Zhou and Q. Hao, "Distributed Dynamic Map Fusion via Federated Learning for Intelligent Networked Vehicles," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 953-959, doi: 10.1109/ICRA48506.2021.9561612.
+
+  [5] S. Wang, **Y. Hong**, R. Wang, Q. Hao, Y. -C. Wu and D. W. K. Ng, "Edge Federated Learning via Unit-Modulus Over-The-Air Computation," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3141-3156, May 2022, doi: 10.1109/TCOMM.2022.3153488.
 
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
