@@ -48,7 +48,7 @@ publication_content: | # Markdownify area
   
   [2] **Y. Hong**, B. Lv, R. Wang, H. Tan, Z. Han, F. C. M. Lau, ``[Distributed Job Dispatching in Edge Computing Networks with Random Transmission Latency: A Low-Complexity POMDP Approach](https://ieeexplore.ieee.org/document/9509750),'' in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2021.3103798.
 
-  [3] **Y. Hong**, B. Lv, S. Wang, H. Tan, F. C. M. Lau, ``FedCars: A Data-Driven Uplink Scheduling Framework for Efficient In-Vehicle Federated Edge Learning,'' To be appear in IEEE Transactions on Vehicular Technology, 2024.
+  [3] **Y. Hong**, B. Lv, S. Wang, H. Tan, F. C. M. Lau, ``[FedCars: An Efficient Scheduling Framework for In-Vehicle Federated Learning Integrated With CARLA-Cosimulation](https://ieeexplore.ieee.org/document/10818578),'' in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3524002.
   
   [4] Z. Zhang, S. Wang, **Y. Hong**, L. Zhou and Q. Hao, "Distributed Dynamic Map Fusion via Federated Learning for Intelligent Networked Vehicles," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 953-959, doi: 10.1109/ICRA48506.2021.9561612.
 
