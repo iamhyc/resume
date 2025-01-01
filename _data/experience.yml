@@ -18,7 +18,7 @@
   quote: >
     Online Semi-supervised Federated Learning on High-fidelity Simulators
   description: | # this will include new lines to allow paragraphs
-    ***3* published, *1* ongoing, *1* patent.**
+    ***3* published, *1* patent.**
 
     In the published papers, we formulate a *semi-supervised federated learning problem* where multiple vehicles are equipped with a [SECOND network](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf) for 3D object detection.
     Firstly, the vehicles would locally infer the objects with a pre-trained model.
@@ -39,7 +39,7 @@
   quote: >
     VLC Platform over NI Instruments and Out-of-shelf Wi-Fi NIC
   description: | # this will include new lines to allow paragraphs
-    ***0* published, *0* ongoing, *1* patent.**
+    ***1* patent.**
 
     In this project, we implemented a hybrid VLC-WiFi communication system, where the VLC link bears the high-throughput downlink, and Wi-Fi link servers as uplink.
     We implemented the system on NI instruments with out-of-shelf Wi-Fi NIC, and the retransmission mechanism is implemented on IP layer.
