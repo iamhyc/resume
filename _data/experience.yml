@@ -1,4 +1,14 @@
 # Experience template
+- company: Wi-Fi MAC Team
+  job_title: <mark>WLAN</mark> <mark>system</mark>
+  dates: March 2025 - May 2026
+  quote: >
+    Wi-Fi Mobility Enhancement Algorithm Design and System Implementation
+  description: | # this will include new lines to allow paragraphs
+    ***1* patent, *1* secret.**
+
+    *The details will not be disclosed for now.*
+
 - company: Edge Computing
   # link: Link to company (optional)
   job_title: <mark>theory</mark>

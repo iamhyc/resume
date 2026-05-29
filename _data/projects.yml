@@ -1,4 +1,23 @@
 # Project template
+- name: Mobility-Enhancement for Indoor WLAN
+  link: <Undisclosed>
+  quote: >
+    <mark>IEEE 802.11</mark>
+    <mark>Wi-Fi</mark>
+    <mark>Mobility Enhancement</mark>
+    <mark>Beamforming</mark>
+  description: | # this will include new lines to allow paragraphs
+    This feature is to be included in HUAWEI's Wi-Fi 7 Enterprise solution, which is expected to be released commercially start from 2026.
+    The official name of this feature is undisclosed for now. A set of techniques are engaged, including but not limited to the following ones:
+
+    - (Thanks to) High-performance transceiver design with intelligent antenna design.
+    - Advanced beamforming design, compatible with IEEE 802.11 MIMO procedures.
+    - AI-assisted MAC layer scheduling algorithm.
+    - Compatible for all Wi-Fi 5/6/7 compliant devices, and bandwidth up to XXX MHz.
+
+    The common POC scenario, shows significant improvement compared to the competitors under various mobility conditions:
+    over +XX% throughput improvement, along with drastically reduced queuing delay for latency-sensitive services, delivering a markedly improved user experience.
+
 - name: Overleaf Workshop
   link: github.com/iamhyc/overleaf-workshop
   github: iamhyc/overleaf-workshop
